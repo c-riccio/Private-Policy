@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
 Privacy Policy 
 ________________________________________
-Privacy Policy
+<b>Privacy Policy</b>
 
 Last updated: 15/6/2017
 
